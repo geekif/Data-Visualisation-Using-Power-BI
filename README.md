@@ -1,1 +1,1 @@
-** This project is for my educational purposes only ** 
+** This project is for my educational and resume purposes only ** 
